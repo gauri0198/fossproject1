@@ -1,1 +1,8 @@
 python program 
+print(student Record)
+name=("Enter a name:")
+print("the name is",name)
+age=("enter age:")
+print("the age is",age)
+class=("enter class:")
+print("the class is",class)
